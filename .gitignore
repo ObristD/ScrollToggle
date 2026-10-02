@@ -1,0 +1,5 @@
+# Build output
+ScrollToggle.app/
+*.o
+*.swiftmodule
+.DS_Store
