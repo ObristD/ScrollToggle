@@ -28,3 +28,7 @@ reliably when the app lives in a stable location such as `/Applications`.
 
 From the terminal you can also run `ScrollToggle.app/Contents/MacOS/ScrollToggle --login-on`
 or `--login-off` to register or unregister the login item without opening the menu.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
